@@ -80,6 +80,7 @@ while choice != "7":
         if cursor.rowcount == 0:
             print("Invalid Name!")
     elif choice == "5":
+        # Change customer age
         try:
             name = input("Name: ")
             age = float(input("Age:  "))
