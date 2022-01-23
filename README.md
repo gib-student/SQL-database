@@ -8,12 +8,8 @@ I created this database to learn how to use SQlite datases.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+I used Visual Studio Code, Python, and the SQlite library to complete this project. 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* YouTube Demo on SQlite databases (https://www.youtube.com/watch?v=byHcYRpMgI4&ab_channel=freeCodeCamp.org)
